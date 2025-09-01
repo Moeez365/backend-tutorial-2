@@ -69,5 +69,4 @@ if(fs.existsSync("hello.txt")){
     console.log("folder/file exist");
 }else{
     console.log("folder/file not exist");
-    
 }
